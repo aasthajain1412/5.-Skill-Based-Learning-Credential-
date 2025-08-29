@@ -7,7 +7,7 @@ pragma solidity ^0.8.0;
  * @notice A decentralized platform for issuing, managing, and verifying skill-based learning credentials
  * @dev Implements a credential system using blockchain technology for transparency and immutability
  */
-contract SkillCredentialSystem {
+ contract SkillCredentialSystem {
     
     // Struct to represent a skill credential
     struct Credential {
